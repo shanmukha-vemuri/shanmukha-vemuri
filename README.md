@@ -118,24 +118,18 @@ UPDATE ME: Replace these placeholder projects with your real repositories once y
 Keep the format so the section stays clean and recruiter-friendly.
 -->
 
-### 🔹 [Project Name 1] — *(placeholder, add your project)*
-> Brief one-line description of what the project does and the problem it solves.
+
 
 **Tech Stack:** Python, HTML/CSS, JavaScript
 🔗 [GitHub Repo](https://github.com/shanmukha-vemuri) · 🌐 [Live Demo](#)
 
----
 
-### 🔹 [Project Name 2] — *(placeholder, add your project)*
-> Brief one-line description of what the project does and the problem it solves.
 
 **Tech Stack:** React, MySQL
 🔗 [GitHub Repo](https://github.com/shanmukha-vemuri) · 🌐 [Live Demo](#)
 
 ---
 
-### 🔹 [Project Name 3] — *(placeholder, add your project)*
-> Brief one-line description of what the project does and the problem it solves.
 
 **Tech Stack:** JavaScript, HTML/CSS
 🔗 [GitHub Repo](https://github.com/shanmukha-vemuri) · 🌐 [Live Demo](#)
