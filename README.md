@@ -20,7 +20,7 @@
 <!-- ✍️ ANIMATED TYPING BANNER -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%90;MCA+Graduate+%7C+Osmania+
-    University;Aspiring+Software+%2F+IT+Professional;Actively+Seeking+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+University;Aspiring+Software+%2F+IT+Professional;Actively+Seeking+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
