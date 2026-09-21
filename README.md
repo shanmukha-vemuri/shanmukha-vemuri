@@ -19,7 +19,8 @@
 
 <!-- ✍️ ANIMATED TYPING BANNER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%90;MCA+Graduate+%7C+Osmania+University;Aspiring+Software+%2F+IT+Professional;Actively+Seeking+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%90;MCA+Graduate+%7C+Osmania+
+    University;Aspiring+Software+%2F+IT+Professional;Actively+Seeking+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +31,7 @@
 </a>
 <a href="mailto:srinivasshanmukha18@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>                                                                                                                                                                         
 <a href="https://github.com/shanmukha-vemuri">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
